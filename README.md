@@ -35,7 +35,7 @@ Jokenpo_JavaScript/
 └── Atividade_Online_Jokenpo/
     ├── ASSETS/
     │   └─ demonstracao.mp4
-    │   └   demonstracao.gif
+    │   └ demonstracao.gif
     ├── index.html
     ├── style.css
     └── script.js
