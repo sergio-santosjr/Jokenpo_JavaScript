@@ -6,7 +6,7 @@ Jogo clássico de **Pedra, Papel e Tesoura** desenvolvido para web com **HTML5**
 
 ## 🎬 Demonstração do Projeto 
 
-./Atividade_Online_Jokenpô/ASSETS/demonstracao.mp4
+<video src="https://github.com/sergio-santosjr/Jokenpo_JavaScript/raw/main/demonstracao.mp4" controls="controls" style="max-width: 100%;</video>
 
 ---
 
